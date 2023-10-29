@@ -14,6 +14,7 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrimmoaee-shamee/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Mi4nU4516eOZ_8ttbwTae7s4g4OYeQxT/view?usp=sharing)
+- 📝 &nbsp; Checkout my [freecodecamp's heatmap](https://www.freecodecamp.org/mrimmoaee)
 
   <!-- 📫 How to reach me:
   **[Twitter](), [Instagram](https://www.linkedin.com/in/mrimmoaee-shamee/)** -->
@@ -35,15 +36,17 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrimmoaee&layout=compact&theme=dark&hide_border=true)
+&nbsp;<div style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrimmoaee&show_icons=true&hide_border=true&theme=dark" alt="GIF" width="400px" align="left">
+  <img src="https://leetcard.jacoblin.cool/mrimmoaeeahmed?font=patrick_hand" alt="GIF" width="400px"  align="center">
+</div>
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=mrimmoaee&show_icons=true&hide_border=true&theme=dark)
 
 
 
 
-</a>
 
+<br>
 <br>
 
 
