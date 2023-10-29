@@ -14,8 +14,9 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrimmoaee-shamee/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Mi4nU4516eOZ_8ttbwTae7s4g4OYeQxT/view?usp=sharing)
-- 📫 How to reach me:
-  **[Twitter](), [Instagram](https://www.linkedin.com/in/mrimmoaee-shamee/)**
+
+  <!-- 📫 How to reach me:
+  **[Twitter](), [Instagram](https://www.linkedin.com/in/mrimmoaee-shamee/)** -->
 
 
 <br>
