@@ -19,7 +19,6 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
   <!-- 📫 How to reach me:
   **[Twitter](), [Instagram](https://www.linkedin.com/in/mrimmoaee-shamee/)** -->
 
-
 <br>
 
 ### 🔨 Languages and Tools:
@@ -41,18 +40,17 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
   <img src="https://leetcard.jacoblin.cool/mrimmoaeeahmed?font=patrick_hand" alt="GIF" width="400px"  align="center">
 </div>
 
-
-
-
-
-
 <br>
 <br>
 
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**This Week I Spent My Time On**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@mrimmoaee&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<div align="center">
+    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@mrimmoaee&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="GIF" width="400px">
+</div>
+
+
 
 
 
