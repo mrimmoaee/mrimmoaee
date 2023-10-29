@@ -45,7 +45,7 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
 
 
 📊 &nbsp;**This Week I Spent My Time On**
-
+<br>
 <div align="center">
     <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@mrimmoaee&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="GIF" width="400px">
 </div>
