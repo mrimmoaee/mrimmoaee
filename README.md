@@ -47,9 +47,16 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
 
 📊 &nbsp;**This Week I Spent My Time On**
 <br>
-<div align="center">
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@mrimmoaee&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="GIF" width="400px">
-</div>
+From: 10 July 2020 - To: 06 August 2022
+
+Total Time: 1,464 hrs 54 mins
+
+Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
+Markdown           132 hrs 33 mins >>-----------------------   08.43 %
+TeX                103 hrs 52 mins >>-----------------------   06.61 %
+HTML               94 hrs 48 mins  >>-----------------------   06.03 %
+Nim                64 hrs 31 mins  >------------------------   04.11 %
+Other              47 hrs 58 mins  >------------------------   03.05 %
 
 
 
