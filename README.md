@@ -47,8 +47,8 @@ I am a versatilist and easily adapt to different hats (Front-end Developer 🌐,
 
 📊 &nbsp;**This Week I Spent My Time On**
 <br>
- <img src="https://wakatime.com/share/@mrimmoaee/8c329ec2-933f-4c2f-9708-1d3fe3af3dac.svg" alt="GIF" width="400px"  align="center">
-<figure><embed src="https://wakatime.com/share/@mrimmoaee/8c329ec2-933f-4c2f-9708-1d3fe3af3dac.svg"></embed></figure>
+ <img src="https://wakatime.com/share/@mrimmoaee/6cdb8d73-fd84-4bcc-9175-76a8648d2662.svg" alt="GIF" width="1200px"  align="center">
+
 
 
 
