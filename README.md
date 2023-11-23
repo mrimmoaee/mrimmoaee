@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mrimmoaee!
+## Hey 👋, I'm Mrimmoaee Ahmed!
 
 I am a versatilist and easily adapt to different hats (Front-end Developer 🌐, Web Developer 📱, or beginner level Data Scientist) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
